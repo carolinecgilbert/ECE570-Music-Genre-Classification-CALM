@@ -1,7 +1,5 @@
-/Data/GTZAN
-/Data/GTZAN.zip
-/Data/test_dataset.pt
-/Data/train_dataset.pt
-/Data/*.pt
 .DS_Store
 calmenv/
+/Data/GTZAN
+/Data/GTZAN.zip
+/Data/Dataset/
